@@ -7,8 +7,11 @@
 </div>
 <h3>🧑‍💻 About Me :</h3>
 <p>I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
+
 - 🌋 I work as a software engineer and develop backend for creating web applications.
+
 - 🚀 In my free time, I work on freelance projects and study technical literature.
+
 <h3 align="left">Language and tools:</h3>
 <p align="left">
 <a href="https://www.python.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="" height="40" width="50" /></a>
