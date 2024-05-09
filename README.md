@@ -17,7 +17,7 @@
 <a href="https://www.python.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="" height="40" width="50" /></a>
 <a href="https://www.djangoproject.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="" height="40" width="50" /></a>
 <a href="https://fastapi.tiangolo.com/"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="" height="40" width="50" /></a>
-<a href="https://docs.aiogram.dev/en/v3.0.0/"><img align="center" src="	https://docs.aiogram.dev/en/v3.0.0/_static/logo.png" alt="" height="40" width="50" /></a>
+<a href="https://docs.aiogram.dev/en/v3.0.0/"><img align="center" src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4" alt="" height="40" width="50" /></a>
 <a href="https://www.postgresql.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="" height="40" width="40" /></a>
 <a href="https://www.qt.io/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="" height="40" width="50" /></a>
 <a href="https://html5.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="" height="40" width="50" /></a>
