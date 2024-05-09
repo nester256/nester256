@@ -8,7 +8,7 @@
 <h3>🧑‍💻 About Me :</h3>
 <p>I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.</p>
 
-- 🌋 I work as a software engineer and develop backend for creating web applications.
+- 🌋 I develop web application backend as a software engineer.
 
 - 🚀 In my free time, I work on freelance projects and study technical literature.
 
@@ -19,9 +19,8 @@
 <a href="https://fastapi.tiangolo.com/"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="" height="40" width="50" /></a>
 <a href="https://docs.aiogram.dev/en/v3.0.0/"><img align="center" src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4" alt="" height="40" width="50" /></a>
 <a href="https://www.postgresql.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="" height="40" width="40" /></a>
-<a href="https://www.qt.io/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="" height="40" width="50" /></a>
+<a href="https://www.docker.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="" height="40" width="50" /></a>
+<a href="https://ru.legacy.reactjs.org/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="" height="40" width="50" /></a>
 <a href="https://html5.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="" height="40" width="50" /></a>
 <a href="https://www.css3.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" height="40" width="50" /></a>
-<a href="https://www.docker.com/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="" height="40" width="50" /></a>
-<a href="https://graphql.org/"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="" height="40" width="50" /></a>
 <a href="https://opensource.com/article/19/10/programming-bash-syntax-tools"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="" height="40" width="50" /></a>
